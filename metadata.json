@@ -1,0 +1,5 @@
+{
+  "name": "Eventing CMRIT",
+  "description": "A complete college event-management system for CMRIT. It features user authentication for students, an admin dashboard for event approval and venue management, an organizer dashboard for event creation and tracking, and a real-time event calendar for audience registration.",
+  "requestFramePermissions": []
+}
